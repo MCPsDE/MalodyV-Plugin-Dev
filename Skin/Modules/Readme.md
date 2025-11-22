@@ -1,2 +1,2 @@
-# local load(Game:ReadBytes("MS"):ToArray())
+# load(Game:ReadBytes("MS"):ToArray())
 # MS:Load("ModuleName")
